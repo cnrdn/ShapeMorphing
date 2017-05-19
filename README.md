@@ -1,7 +1,7 @@
 # Shape Morphing
 
-###Installation
-
+### Installation
+ 
 You can grab the sources by cloning this repository or downloading a .zip archive of the sources. In order to build the project, navigate to the created directory and in a command prompt type:
 
 mkdir build
@@ -11,15 +11,16 @@ make
 (sudo) make install
 
 
-###Usage
+### Usage
 
 See the documentation folder. 
 
-###Authors and contributors
+### Authors and contributors
+
 morphing has been initiated by Maya de Buhan (Université Paris Descartes)and Chiara Nardoni (Université Pierre et Marie Curie).
 Contributors to this project are warmly welcomed.
 
-###License
+### License
 
 morphing is given under the [terms of the GNU Lesser General Public License] (LICENSE.md).
 
