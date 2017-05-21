@@ -17,7 +17,7 @@ make
 
 ### Usage
 
-See the documentation folder. 
+See the documentation folder (not yet available).  
 
 ### Authors and contributors
 
